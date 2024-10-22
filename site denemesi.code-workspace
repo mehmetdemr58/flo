@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../site denemesi"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"html-css-class-completion.enableEmmetSupport": true
+	}
+}

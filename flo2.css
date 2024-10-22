@@ -1,0 +1,1052 @@
+html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FLO</title>
+
+    <link rel="icon" href="resimler/iptalflobaslık.png" >
+    <link rel="stylesheet" href="flo.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+
+
+</head>
+<body>
+  <div class="headere">
+
+
+<div class="mobil">
+        Mobil Uygulamayı <a href="https://www.flo.com.tr/mobil-uygulamalar"><strong>Hemen İndir</strong></a>
+      </div>
+
+<div class="containerr">
+  <div class="row">
+    <div class="col-6">
+      <div class="headere"></div>
+      <div class="mobil"></div>
+    </div>
+
+  </div>
+</div>
+      <div class="siparis">
+      <a href="" style="text-decoration: none;">Sipariş Takibi</a>
+      </div>
+      <div class="span"> <span style="width: 0; height: 10px; border: solid 0.5px #000000; margin-left: 15px; margin-right: 15px;"></span></div>
+
+      <div class="iade">
+        <a href="" style="text-decoration: none;">Kolay İade</a>
+        </div>
+
+        <div class="span"> <span style="width: 0; height: 10px; border: solid 0.5px #000000; margin-left: 15px; margin-right: 15px;"></span></div>
+
+        <div class="yardim">
+      <a href="" style="text-decoration: none;">Yardım</a>
+          </div>
+
+
+    </div>
+    
+
+  <nav class="navbar">
+    <div class="navbar-left">
+      <a href="https://www.flo.com.tr/butik/erkek" class="navbar-brand">
+        <img src="resimler/flobaslık.png" alt="FLO Logo">
+      </a>
+      </div>
+      <ul class="linkler">
+        <li><a href="#">Kadın</a></li>
+        <li><a href="#">Erkek</a></li>
+        <li><a href="#">Çocuk</a></li>
+        <div class="navbar-center">
+          <input type="text" placeholder="Aradığınız ürün, marka veya kategoriyi yazınız" class="search-input">
+          
+        </div>
+      </ul>
+
+      
+
+  </div>
+    <div class="navbar-right">
+       <a href="#" class="nav-icon">
+       <i class ="fas fa-user"> </i> Giriş Yap 
+      </a>
+      <a href="#" class="nav-icon">
+       <i class="fas fa-shopping-cart"></i> Sepetim
+      </a>
+    </div>
+  </nav>
+
+
+  <div class="sekmeler">
+    <div class="container">
+      <ul class="nav-links">
+        <li>
+          <a href="#">Yeni Gelenler</a>
+
+        <li>
+          <a href="#">Ayakkabı</a>
+          <div class="mega-menu">
+            <div class="mega-menu-column ">
+              <ul>
+                <li><strong>Katagori</strong></li>
+                <li><a href="#">Tüm Erkek Ayakkabı</a></li>
+                <li><a href="#">Günlük Ayakkabı</a></li>
+                <li><a href="#">Casual Ayakkabı</a></li>
+                <li><a href="#">Klasik Ayakkabı</a></li>
+                <li><a href="#">Rahat Ayakkabı</a></li>
+                <li><a href="#">Ev Terliği</a></li>
+              </ul>
+
+              <ul>
+                <li  style="font-size: 12px;  margin-top: 25px;"></li><a href="#">Outdoor</a></li>
+                <li><a href="#">Bot</a></li>
+                <li><a href="#">Klasik Bot</a></li>
+                <li><a href="#">Chelsea</a></li>
+                <li><a href="#">Askeri Bot</a></li>
+              </ul>
+
+              <ul>
+                <li  style="margin-top: 25px;"><a href="#">Sneaker</a></li>
+                <li><a href="#">Spor Ayakkabı</a></li>
+                <li><a href="#">Koşu</a></li>
+                <li><a href="#">Yürüyüş</a></li>
+                <li><a href="#">Halı Saha</a></li>
+                <li><a href="#">Sandalet</a></li>
+                <li><a href="#">Terlik</a></li>
+              </ul>
+              <ul>
+                <li  style="margin-top: 25px;"><a href="#">Yeni Gelenler</a></li>
+                <li><a href="#">Su Geçirmez</a></li>
+                <li><a href="#">Online Özel</a></li>
+                <li><a href="#">Çok Satanlar</a></li>
+                <li><a href="#">Hakiki Deri</a></li>
+                <li><a href="#">Büyük Numara</a></li>
+              </ul>
+                          
+            </div>
+            <div class="mega-menu-list2">
+              <ul>
+                <li><strong>Popüler Markalar</strong></li>
+                <li><a href="#">Dockers by Gerli</a></li>
+                <li><a href="#">İnci</a></li>
+                <li><a href="#">Lumberjack</a></li>
+                <li><a href="#">U.S. Polo Assn.</a></li>
+                <li><a href="#">Kinetix</a></li>
+                <li><a href="#">Polaris</a></li>
+              </ul>
+
+                <ul>
+                  <li style="margin-top: 35px;"><a href="#">Nike</a></li>
+                  <li><a href="#">Adidas</a></li>
+                  <li><a href="#">Puma</a></li>
+                  <li><a href="#">Reebook</a></li>
+                  <li><a href="#">Lotto</a></li>
+                  <li><a href="#">Hummel</a></li>
+                </ul>
+
+                  <ul>
+                    <li><strong>Ayakkabı</strong></li>
+                  <img src ="resimler/erkek-ayakkabi.webp" style="height: 200px;"  alt="">
+                  </ul>
+     
+            </div>
+          </div>
+        </li>
+
+
+
+
+
+                <li>
+          <a href="#">Spor</a>
+          <div class="mega-menu">
+            <div class="mega-menu-column ">
+              <ul>
+                <li><strong>Katagori</strong></li>
+                <li><a href="#">Tüm Erkek Ayakkabı</a></li>
+                <li><a href="#">Günlük Ayakkabı</a></li>
+                <li><a href="#">Casual Ayakkabı</a></li>
+                <li><a href="#">Klasik Ayakkabı</a></li>
+                <li><a href="#">Rahat Ayakkabı</a></li>
+                <li><a href="#">Ev Terliği</a></li>
+              </ul>
+              <div class="mega-menu-1"></div>
+              <ul>
+                <li  style="font-size: 12px;  margin-top: 25px;"></li><a href="#">Outdoor</a></li>
+                <li><a href="#">Bot</a></li>
+                <li><a href="#">Klasik Bot</a></li>
+                <li><a href="#">Chelsea</a></li>
+                <li><a href="#">Askeri Bot</a></li>
+              </ul>
+              <ul>
+                <li  style="margin-top: 25px;"><a href="#">Sneaker</a></li>
+                <li><a href="#">Spor Ayakkabı</a></li>
+                <li><a href="#">Koşu</a></li>
+                <li><a href="#">Yürüyüş</a></li>
+                <li><a href="#">Halı Saha</a></li>
+                <li><a href="#">Sandalet</a></li>
+                <li><a href="#">Terlik</a></li>
+              </ul>
+              <ul>
+                <li  style="margin-top: 25px;"><a href="#">Yeni Gelenler</a></li>
+                <li><a href="#">Su Geçirmez</a></li>
+                <li><a href="#">Online Özel</a></li>
+                <li><a href="#">Çok Satanlar</a></li>
+                <li><a href="#">Hakiki Deri</a></li>
+                <li><a href="#">Büyük Numara</a></li>
+              </ul>
+            </div>
+            <div class="mega-menu-list">
+              <ul>
+                <li><strong>Popüler Markalar</strong></li>
+                <li><a href="#">Dockers by Gerli</a></li>
+                <li><a href="#">İnci</a></li>
+                <li><a href="#">Lumberjack</a></li>
+                <li><a href="#">U.S. Polo Assn.</a></li>
+                <li><a href="#">Kinetix</a></li>
+                <li><a href="#">Polaris</a></li>
+              </ul>
+              <div class="mega-menu-list">
+                <ul>
+                  <li style="margin-top: 25px;"><a href="#">Nike</a></li>
+                  <li><a href="#">Adidas</a></li>
+                  <li><a href="#">Puma</a></li>
+                  <li><a href="#">Reebook</a></li>
+                  <li><a href="#">Lotto</a></li>
+                  <li><a href="#">Hummel</a></li>
+                </ul>
+
+                <div class="mega-menu-list">
+                  <ul>
+                    <li><strong>Ayakkabı</strong></li>
+                  <img src ="resimler/erkek-ayakkabi.webp" style="height: 200px;"  alt="">
+                  </ul>
+     
+            </div>
+          </div>
+        </li>
+
+
+
+
+
+                <li>
+          <a href="#">Giyim</a>
+          <div class="mega-menu">
+            <div class="mega-menu-column ">
+              <ul>
+                <li><strong>Katagori</strong></li>
+                <li><a href="#">Tüm Erkek Ayakkabı</a></li>
+                <li><a href="#">Günlük Ayakkabı</a></li>
+                <li><a href="#">Casual Ayakkabı</a></li>
+                <li><a href="#">Klasik Ayakkabı</a></li>
+                <li><a href="#">Rahat Ayakkabı</a></li>
+                <li><a href="#">Ev Terliği</a></li>
+              </ul>
+              <div class="mega-menu-1"></div>
+              <ul>
+                <li  style="font-size: 12px;  margin-top: 25px;"></li><a href="#">Outdoor</a></li>
+                <li><a href="#">Bot</a></li>
+                <li><a href="#">Klasik Bot</a></li>
+                <li><a href="#">Chelsea</a></li>
+                <li><a href="#">Askeri Bot</a></li>
+              </ul>
+              <ul>
+                <li  style="margin-top: 25px;"><a href="#">Sneaker</a></li>
+                <li><a href="#">Spor Ayakkabı</a></li>
+                <li><a href="#">Koşu</a></li>
+                <li><a href="#">Yürüyüş</a></li>
+                <li><a href="#">Halı Saha</a></li>
+                <li><a href="#">Sandalet</a></li>
+                <li><a href="#">Terlik</a></li>
+              </ul>
+              <ul>
+                <li  style="margin-top: 25px;"><a href="#">Yeni Gelenler</a></li>
+                <li><a href="#">Su Geçirmez</a></li>
+                <li><a href="#">Online Özel</a></li>
+                <li><a href="#">Çok Satanlar</a></li>
+                <li><a href="#">Hakiki Deri</a></li>
+                <li><a href="#">Büyük Numara</a></li>
+              </ul>
+            </div>
+            <div class="mega-menu-list">
+              <ul>
+                <li><strong>Popüler Markalar</strong></li>
+                <li><a href="#">Dockers by Gerli</a></li>
+                <li><a href="#">İnci</a></li>
+                <li><a href="#">Lumberjack</a></li>
+                <li><a href="#">U.S. Polo Assn.</a></li>
+                <li><a href="#">Kinetix</a></li>
+                <li><a href="#">Polaris</a></li>
+              </ul>
+              <div class="mega-menu-list">
+                <ul>
+                  <li style="margin-top: 25px;"><a href="#">Nike</a></li>
+                  <li><a href="#">Adidas</a></li>
+                  <li><a href="#">Puma</a></li>
+                  <li><a href="#">Reebook</a></li>
+                  <li><a href="#">Lotto</a></li>
+                  <li><a href="#">Hummel</a></li>
+                </ul>
+
+                <div class="mega-menu-list">
+                  <ul>
+                    <li><strong>Ayakkabı</strong></li>
+                  <img src ="resimler/erkek-ayakkabi.webp" style="height: 200px;"  alt="">
+                  </ul>
+     
+            </div>
+          </div>
+        </li>
+
+
+
+              <li>
+          <a href="#">Çanta ve Aksesuar</a>
+          <div class="mega-menu">
+            <div class="mega-menu-column ">
+              <ul>
+                <li><strong>Katagori</strong></li>
+                <li><a href="#">Tüm Erkek Ayakkabı</a></li>
+                <li><a href="#">Günlük Ayakkabı</a></li>
+                <li><a href="#">Casual Ayakkabı</a></li>
+                <li><a href="#">Klasik Ayakkabı</a></li>
+                <li><a href="#">Rahat Ayakkabı</a></li>
+                <li><a href="#">Ev Terliği</a></li>
+              </ul>
+              <div class="mega-menu-1"></div>
+              <ul>
+                <li  style="font-size: 12px;  margin-top: 25px;"></li><a href="#">Outdoor</a></li>
+                <li><a href="#">Bot</a></li>
+                <li><a href="#">Klasik Bot</a></li>
+                <li><a href="#">Chelsea</a></li>
+                <li><a href="#">Askeri Bot</a></li>
+              </ul>
+              <ul>
+                <li  style="margin-top: 25px;"><a href="#">Sneaker</a></li>
+                <li><a href="#">Spor Ayakkabı</a></li>
+                <li><a href="#">Koşu</a></li>
+                <li><a href="#">Yürüyüş</a></li>
+                <li><a href="#">Halı Saha</a></li>
+                <li><a href="#">Sandalet</a></li>
+                <li><a href="#">Terlik</a></li>
+              </ul>
+              <ul>
+                <li  style="margin-top: 25px;"><a href="#">Yeni Gelenler</a></li>
+                <li><a href="#">Su Geçirmez</a></li>
+                <li><a href="#">Online Özel</a></li>
+                <li><a href="#">Çok Satanlar</a></li>
+                <li><a href="#">Hakiki Deri</a></li>
+                <li><a href="#">Büyük Numara</a></li>
+              </ul>
+            </div>
+            <div class="mega-menu-list">
+              <ul>
+                <li><strong>Popüler Markalar</strong></li>
+                <li><a href="#">Dockers by Gerli</a></li>
+                <li><a href="#">İnci</a></li>
+                <li><a href="#">Lumberjack</a></li>
+                <li><a href="#">U.S. Polo Assn.</a></li>
+                <li><a href="#">Kinetix</a></li>
+                <li><a href="#">Polaris</a></li>
+              </ul>
+              <div class="mega-menu-list">
+                <ul>
+                  <li style="margin-top: 25px;"><a href="#">Nike</a></li>
+                  <li><a href="#">Adidas</a></li>
+                  <li><a href="#">Puma</a></li>
+                  <li><a href="#">Reebook</a></li>
+                  <li><a href="#">Lotto</a></li>
+                  <li><a href="#">Hummel</a></li>
+                </ul>
+
+                <div class="mega-menu-list">
+                  <ul>
+                    <li><strong>Ayakkabı</strong></li>
+                  <img src ="resimler/erkek-ayakkabi.webp" style="height: 200px;"  alt="">
+                  </ul>
+     
+            </div>
+          </div>
+        </li>
+
+
+
+
+              <li>
+          <a href="#">İndirim</a>
+          <div class="mega-menu">
+            <div class="mega-menu-column ">
+              <ul>
+                <li><strong>Katagori</strong></li>
+                <li><a href="#">Tüm Erkek Ayakkabı</a></li>
+                <li><a href="#">Günlük Ayakkabı</a></li>
+                <li><a href="#">Casual Ayakkabı</a></li>
+                <li><a href="#">Klasik Ayakkabı</a></li>
+                <li><a href="#">Rahat Ayakkabı</a></li>
+                <li><a href="#">Ev Terliği</a></li>
+              </ul>
+              <div class="mega-menu-1"></div>
+              <ul>
+                <li  style="font-size: 12px;  margin-top: 25px;"></li><a href="#">Outdoor</a></li>
+                <li><a href="#">Bot</a></li>
+                <li><a href="#">Klasik Bot</a></li>
+                <li><a href="#">Chelsea</a></li>
+                <li><a href="#">Askeri Bot</a></li>
+              </ul>
+              <ul>
+                <li  style="margin-top: 25px;"><a href="#">Sneaker</a></li>
+                <li><a href="#">Spor Ayakkabı</a></li>
+                <li><a href="#">Koşu</a></li>
+                <li><a href="#">Yürüyüş</a></li>
+                <li><a href="#">Halı Saha</a></li>
+                <li><a href="#">Sandalet</a></li>
+                <li><a href="#">Terlik</a></li>
+              </ul>
+              <ul>
+                <li  style="margin-top: 25px;"><a href="#">Yeni Gelenler</a></li>
+                <li><a href="#">Su Geçirmez</a></li>
+                <li><a href="#">Online Özel</a></li>
+                <li><a href="#">Çok Satanlar</a></li>
+                <li><a href="#">Hakiki Deri</a></li>
+                <li><a href="#">Büyük Numara</a></li>
+              </ul>
+            </div>
+            <div class="mega-menu-list">
+              <ul>
+                <li><strong>Popüler Markalar</strong></li>
+                <li><a href="#">Dockers by Gerli</a></li>
+                <li><a href="#">İnci</a></li>
+                <li><a href="#">Lumberjack</a></li>
+                <li><a href="#">U.S. Polo Assn.</a></li>
+                <li><a href="#">Kinetix</a></li>
+                <li><a href="#">Polaris</a></li>
+              </ul>
+              <div class="mega-menu-list">
+                <ul>
+                  <li style="margin-top: 25px;"><a href="#">Nike</a></li>
+                  <li><a href="#">Adidas</a></li>
+                  <li><a href="#">Puma</a></li>
+                  <li><a href="#">Reebook</a></li>
+                  <li><a href="#">Lotto</a></li>
+                  <li><a href="#">Hummel</a></li>
+                </ul>
+
+                <div class="mega-menu-list">
+                  <ul>
+                    <li><strong>Ayakkabı</strong></li>
+                  <img src ="resimler/erkek-ayakkabi.webp" style="height: 200px;"  alt="">
+                  </ul>
+     
+            </div>
+          </div>
+        </li>
+
+        <li>
+          <a href="#">Tüm Katagoriler</a>
+          <div class="mega-menu">
+            <div class="mega-menu-column ">
+              <ul>
+                <li><strong>Katagori</strong></li>
+                <li><a href="#">Tüm Erkek Ayakkabı</a></li>
+                <li><a href="#">Günlük Ayakkabı</a></li>
+                <li><a href="#">Casual Ayakkabı</a></li>
+                <li><a href="#">Klasik Ayakkabı</a></li>
+                <li><a href="#">Rahat Ayakkabı</a></li>
+                <li><a href="#">Ev Terliği</a></li>
+              </ul>
+              <div class="mega-menu-1"></div>
+              <ul>
+                <li  style="font-size: 12px;  margin-top: 25px;"></li><a href="#">Outdoor</a></li>
+                <li><a href="#">Bot</a></li>
+                <li><a href="#">Klasik Bot</a></li>
+                <li><a href="#">Chelsea</a></li>
+                <li><a href="#">Askeri Bot</a></li>
+              </ul>
+              <ul>
+                <li  style="margin-top: 25px;"><a href="#">Sneaker</a></li>
+                <li><a href="#">Spor Ayakkabı</a></li>
+                <li><a href="#">Koşu</a></li>
+                <li><a href="#">Yürüyüş</a></li>
+                <li><a href="#">Halı Saha</a></li>
+                <li><a href="#">Sandalet</a></li>
+                <li><a href="#">Terlik</a></li>
+              </ul>
+              <ul>
+                <li  style="margin-top: 25px;"><a href="#">Yeni Gelenler</a></li>
+                <li><a href="#">Su Geçirmez</a></li>
+                <li><a href="#">Online Özel</a></li>
+                <li><a href="#">Çok Satanlar</a></li>
+                <li><a href="#">Hakiki Deri</a></li>
+                <li><a href="#">Büyük Numara</a></li>
+              </ul>
+            </div>
+            <div class="mega-menu-list">
+              <ul>
+                <li><strong>Popüler Markalar</strong></li>
+                <li><a href="#">Dockers by Gerli</a></li>
+                <li><a href="#">İnci</a></li>
+                <li><a href="#">Lumberjack</a></li>
+                <li><a href="#">U.S. Polo Assn.</a></li>
+                <li><a href="#">Kinetix</a></li>
+                <li><a href="#">Polaris</a></li>
+              </ul>
+              <div class="mega-menu-list">
+                <ul>
+                  <li style="margin-top: 25px;"><a href="#">Nike</a></li>
+                  <li><a href="#">Adidas</a></li>
+                  <li><a href="#">Puma</a></li>
+                  <li><a href="#">Reebook</a></li>
+                  <li><a href="#">Lotto</a></li>
+                  <li><a href="#">Hummel</a></li>
+                </ul>
+
+                <div class="mega-menu-list">
+                  <ul>
+                    <li><strong>Ayakkabı</strong></li>
+                  <img src ="resimler/erkek-ayakkabi.webp" style="height: 200px;"  alt="">
+                  </ul>
+     
+            </div>
+          </div>
+        </li>
+        </div>
+      </li>
+      </ul>
+    </div>
+  </div>
+
+<div class="baslikk">
+  
+  <div class="baslikici">
+    <a href=""><img src="resimler/indirim.webp" style="border-radius:10px;  width: 1170px;" alt=""></a>
+  <a href=""><img src="resimler/anasayfa1.webp" style="width: 1170px;" alt=""></a>
+  <a href=""><img src="resimler/anasayfaa.webp" style="border-radius: 10px; height: 380px; width: 1170px;" alt=""></a>
+  <a href=""><img src="resimler/anasayfa2.webp" style="border-radius: 10px; width: 1170px;" alt=""></a>
+  <a href=""><img src="resimler/anasayfa3.webp" style="border-radius: 10px; width: 1170px;" alt=""></a>
+
+</div>
+
+<div class="baslikk2">
+  <a href=""><img src="resimler/anasayfakucuk1.webp" style="border-radius: 10px; height: 300px; width: 575px;" alt=""></a>
+  <a href=""><img src="resimler/anasayfakucuk2.webp" style="border-radius: 10px; height: 300px; width: 575px;" alt=""></a>
+</div>
+
+<div class="baslikk3">
+
+  <a href=""><img src="resimler/anasayfakucukalt1.webp" style="border-radius: 10px; width: 575px;" alt=""></a>
+  <a href=""><img src="resimler/anasayfakucukalt2.webp" style="border-radius: 10px; width: 575px;" alt=""></a>
+</div>
+
+
+
+      
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+css
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  
+}
+
+.headere{
+  display: flex;
+  background-color: #F8F8F8;
+ }
+
+ .siparis{
+  margin-left: 430px;
+  font-size: 13px;
+  margin-top: 15px;
+
+  
+ }
+
+ .siparis a{
+  color: black;
+
+     }
+  
+
+.span{
+  margin-top: 13px;
+}
+
+ .iade{
+margin-left: 8px;
+font-size: 13px;
+margin-top: 15px;
+ }
+
+ .iade a{
+color: black;
+   }
+
+
+ .yardim{
+margin-left: 8px;
+font-size: 13px;
+margin-top: 15px;
+ }
+
+ .yardim a{
+  color: black;
+     }
+     
+  
+
+.mobil {
+display: block;
+margin-left: 310px;
+font: 300 14px / 45px Roboto;
+
+
+
+  }
+  
+  .mobil a {
+    color: black;
+    font: 300 14px / 45px Roboto;
+    font-size: 15px;
+  }
+
+  .navbar img{
+    justify-content: space-between;
+    width: 135px;
+    margin-left:280px ;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+  }
+
+  .navbar {
+
+    
+    display: flex;
+    align-items: center;
+    padding: 0px 20px;
+    border-bottom: 1px solid #fffcfa;
+    padding-top: 1px;
+    padding-bottom: 1px;
+  }
+
+  .nav-icon{
+    
+    align-items: center;
+    margin-top: 5px;
+  }
+  
+  
+.linkler {
+  list-style: none;
+  display: flex;
+
+margin-left: 0px;
+
+  
+}
+
+.linkler li {
+  margin-right: 40px;
+  margin-top: 10px;
+ padding-top: 0%;
+ font-size: 20px;
+
+}
+
+.linkler a {
+  text-decoration: none;
+  color: black;
+  font-size: 1;
+
+  display: flex !important;
+  margin-top: 10px;
+  
+}
+
+.nav-links :hover{
+  color: #f60;
+}
+
+
+.linkler :hover{
+  color: #f60; 
+   }
+
+
+.navbar-right{
+  display: flex;
+  align-items: center;
+
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  list-style: none;
+  min-width: 213px;
+  padding-left: 0;
+
+}
+.search-input {
+  position: relative;
+  border: 1px solid #d9d9d9;
+  z-index: 1;
+  border-radius: 10px;
+  min-width: 480px;
+  min-height: 50px;
+  
+ 
+  
+  
+}
+
+
+nav-icon a{
+  flex-direction: column;
+}
+
+.navbar-right {
+  display: flex;
+  align-items: center;
+  margin-left: 50px;
+}
+
+.nav-icon {
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
+  margin-left: 20px;
+}
+
+.nav-icon i {
+  margin-right: 5px;
+  
+}
+
+.sekmeler{
+  margin-top: 15px;
+  margin-bottom: 15px;
+  background-color: #F8F8F8;
+  
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  background-color: #F8F8F8;
+  height: 50px;
+  position: relative;
+
+
+}
+
+.container
+{
+  background-color: #F8F8F8;
+  margin: 0 210px;
+  padding: 0 15px;
+  position: relative;
+  
+}
+
+.nav-links li {
+  background-color: #F8F8F8;
+  margin-top:  10px;
+}
+
+.nav-links a {
+  background-color: #F8F8F8;
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+margin-right: 1px;
+}
+
+.fa-user:before {
+  position: relative; 
+    bottom: 20px ;
+    left: 45px; 
+}
+
+.fa-shopping-cart:before {
+  position: relative; 
+    bottom: 20px ;
+    left: 45px; 
+    width: 26px;
+    height: auto;
+}
+
+
+.nav-links {
+  text-align: center;
+} 
+
+.li a .nav-links {
+  position: relative;
+  display: inline-block;
+}
+
+.li a .nav-links::before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #000;
+  height: 1px;
+  width: 100%;
+}
+
+
+.baslikk {
+  border-radius: 10px;
+
+}
+
+.baslikk a{
+  display: flex;
+  margin-top: 7px;
+  justify-content: center;
+
+}
+
+
+
+.baslikk2, .baslikk3 {
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  margin-top: 20px;
+  gap: 10px;
+
+
+}
+
+.baslikk2 a, .baslikk3 a {
+  display: inline-block;
+}
+
+
+.nav-links a{
+  
+}
+
+.mega-menu {
+  display: none;
+  position: absolute;
+  background-color: #F8F8F8;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 160%;
+  height: 600%;
+  z-index: 1000;
+  left: -220px;
+  top: 52%;
+  text-align: center;
+  justify-content: center;
+  margin: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+
+
+
+.nav-links li:hover .mega-menu {
+  display: flex;
+  justify-content: space-between;
+}
+
+.mega-menu-column {
+  margin-left: 300px;
+  width: 50%;
+  align-items: flex-start;
+  display: flex;
+  flex-direction: row;
+  background-color: #f8f8f8;;
+  
+
+}
+
+.mega-menu-column ul {
+  list-style-type: none;
+  padding: 0;
+  justify-content: flex-start;
+  font-weight: 15px;
+  margin-left: 20px;
+}
+
+.mega-menu-column ul li {
+  margin-bottom: 10px;
+  
+}
+
+.mega-menu-column ul li a {
+  text-decoration: none;
+  color: black;
+  background-color: #f8f8f8;
+  font-size: 15px;
+
+  
+}
+
+.mega-menu-column ul li a:hover {
+  color: #f60;
+
+}
+
+
+
+
+
+
+
+
+.mega-menu-list ul {
+  list-style-type: none;
+  padding: 0;
+  justify-content: flex-start;
+}
+
+.mega-menu-list ul li {
+  margin-bottom: 10px;
+}
+
+.mega-menu-list ul li a {
+  text-decoration: none;
+  color: black;
+}
+
+
+
+
+
+
+.mega-menu-list1 {
+  width: 100%;
+  align-items: flex-start;
+  display: flex;
+  flex-direction: row;
+
+}
+
+.mega-menu-list1 ul {
+  list-style-type: none;
+  padding: 0;
+  justify-content: flex-start;
+}
+
+.mega-menu-list1 ul li {
+  margin-bottom: 10px;
+}
+
+.mega-menu-list1 ul li a {
+  text-decoration: none;
+  color: black;
+}
+
+
+
+.mega-menu-list {
+  background: #fffcfa;border: 1px #fffcfa;
+  border-radius: 10px;
+  color: #f60;
+  font-size: 14px;
+  height: 1px;
+  letter-spacing: -.25px;
+  line-height: 100%;
+  margin-bottom: 10px;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(50% - 5px);
+  width: 100%;
+  align-items: flex-start;
+  display: flex;
+  flex-direction: row;
+  font-weight: 300px;
+  margin-left:50px;
+}
+
+
+.mega-menu-column mega-menu-column{
+  margin-left: 30px;
+}
+
+
+
+
+
+.mega-menu-list2 {
+  width: 100%;
+  align-items: flex-start;
+  display: flex;
+  flex-direction: row;
+}
+
+.mega-menu-list2 ul {
+  list-style-type: none;
+  padding: 0;
+  justify-content: flex-start;
+  margin-left: 20px;
+}
+
+.mega-menu-list2 ul li {
+  margin-bottom: 10px;
+}
+
+.mega-menu-list2 ul li a {
+  text-decoration: none;
+  color: black;
+}
+
+
+
+.mega-menu-list2 {
+  background: #f8f8f8;;border: 1px #f8f8f8;
+  border-radius: 10px;
+  color: #f60;
+  font-size: 14px;
+  letter-spacing: -.25px;
+  line-height: 160%;
+  margin-bottom: 10px;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(50% - 5px);
+  width: 100%;
+  align-items: flex-start;
+  display: flex;
+  flex-direction: row;
+  font-weight: 300px;
+  margin-left:50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
